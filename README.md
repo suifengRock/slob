@@ -1,0 +1,2 @@
+# slob
+golang template generate
